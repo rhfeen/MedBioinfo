@@ -1,0 +1,4 @@
+Sample	total_reads	unpaired_total	unpaired_aligned_none	unpaired_aligned_one	unpaired_aligned_multi	overall_alignment_rate
+rachel_bowtie_merged2PhiX	6578217	6578217	6578217	0	0	0.0
+rachel_bowtie_merged2_SC2	6578217	6578217	6578092	125	0	0.0
+rfeeney_bowtie_merged2PhiX	6578217	6578217	6578217	0	0	0.0

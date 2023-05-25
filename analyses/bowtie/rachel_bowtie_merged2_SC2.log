@@ -1,0 +1,8 @@
+srun: job 33549225 queued and waiting for resources
+srun: job 33549225 has been allocated resources
+6578217 reads; of these:
+  6578217 (100.00%) were unpaired; of these:
+    6578092 (100.00%) aligned 0 times
+    125 (0.00%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.00% overall alignment rate

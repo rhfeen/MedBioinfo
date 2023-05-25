@@ -1,0 +1,21 @@
+Module	Section	Sample Name	Source
+Bowtie 2 / HiSAT2	all_sections	rfeeney_bowtie_merged2PhiX	/shared/ifbstor1/projects/2314_medbioinfo/rachel/MedBioinfo/analyses/bowtie/rfeeney_bowtie_merged2PhiX.log
+Bowtie 2 / HiSAT2	all_sections	rachel_bowtie_merged2_SC2	/shared/ifbstor1/projects/2314_medbioinfo/rachel/MedBioinfo/analyses/bowtie/rachel_bowtie_merged2_SC2.log
+Bowtie 2 / HiSAT2	all_sections	rachel_bowtie_merged2PhiX	/shared/ifbstor1/projects/2314_medbioinfo/rachel/MedBioinfo/analyses/bowtie/rachel_bowtie_merged2PhiX.log
+FastQC	all_sections	ERR6913315_1	/shared/ifbstor1/projects/2314_medbioinfo/rachel/MedBioinfo/analyses/fastqc/ERR6913315_1_fastqc.zip
+FastQC	all_sections	ERR6913343_2	/shared/ifbstor1/projects/2314_medbioinfo/rachel/MedBioinfo/analyses/fastqc/ERR6913343_2_fastqc.zip
+FastQC	all_sections	ERR6913345_1	/shared/ifbstor1/projects/2314_medbioinfo/rachel/MedBioinfo/analyses/fastqc/ERR6913345_1_fastqc.zip
+FastQC	all_sections	ERR6913314_2	/shared/ifbstor1/projects/2314_medbioinfo/rachel/MedBioinfo/analyses/fastqc/ERR6913314_2_fastqc.zip
+FastQC	all_sections	ERR6913344_1	/shared/ifbstor1/projects/2314_medbioinfo/rachel/MedBioinfo/analyses/fastqc/ERR6913344_1_fastqc.zip
+FastQC	all_sections	ERR6913312_1	/shared/ifbstor1/projects/2314_medbioinfo/rachel/MedBioinfo/analyses/fastqc/ERR6913312_1_fastqc.zip
+FastQC	all_sections	ERR6913341_2	/shared/ifbstor1/projects/2314_medbioinfo/rachel/MedBioinfo/analyses/fastqc/ERR6913341_2_fastqc.zip
+FastQC	all_sections	ERR6913314_1	/shared/ifbstor1/projects/2314_medbioinfo/rachel/MedBioinfo/analyses/fastqc/ERR6913314_1_fastqc.zip
+FastQC	all_sections	ERR6913312_2	/shared/ifbstor1/projects/2314_medbioinfo/rachel/MedBioinfo/analyses/fastqc/ERR6913312_2_fastqc.zip
+FastQC	all_sections	ERR6913345_2	/shared/ifbstor1/projects/2314_medbioinfo/rachel/MedBioinfo/analyses/fastqc/ERR6913345_2_fastqc.zip
+FastQC	all_sections	ERR6913315_2	/shared/ifbstor1/projects/2314_medbioinfo/rachel/MedBioinfo/analyses/fastqc/ERR6913315_2_fastqc.zip
+FastQC	all_sections	ERR6913341_1	/shared/ifbstor1/projects/2314_medbioinfo/rachel/MedBioinfo/analyses/fastqc/ERR6913341_1_fastqc.zip
+FastQC	all_sections	ERR6913344_2	/shared/ifbstor1/projects/2314_medbioinfo/rachel/MedBioinfo/analyses/fastqc/ERR6913344_2_fastqc.zip
+FastQC	all_sections	ERR6913316_2	/shared/ifbstor1/projects/2314_medbioinfo/rachel/MedBioinfo/analyses/fastqc/ERR6913316_2_fastqc.zip
+FastQC	all_sections	ERR6913316_1	/shared/ifbstor1/projects/2314_medbioinfo/rachel/MedBioinfo/analyses/fastqc/ERR6913316_1_fastqc.zip
+FastQC	all_sections	ERR6913343_1	/shared/ifbstor1/projects/2314_medbioinfo/rachel/MedBioinfo/analyses/fastqc/ERR6913343_1_fastqc.zip
+FLASh	all_sections	rfeeney_flash2	/shared/ifbstor1/projects/2314_medbioinfo/rachel/MedBioinfo/analyses/rfeeney_flash2.log

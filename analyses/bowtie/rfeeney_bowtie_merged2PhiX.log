@@ -1,0 +1,33 @@
+srun: job 33540411 queued and waiting for resources
+srun: job 33540411 has been allocated resources
+6578217 reads; of these:
+  6578217 (100.00%) were unpaired; of these:
+    6578217 (100.00%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.00% overall alignment rate
+srun: job 33548992 queued and waiting for resources
+srun: job 33548992 has been allocated resources
+slurmstepd: error: execve(): bowtie2: No such file or directory
+srun: error: cpu-node-35: task 0: Exited with exit code 2
+srun: job 33549037 queued and waiting for resources
+srun: job 33549037 has been allocated resources
+slurmstepd: error: execve(): bowtie2: No such file or directory
+srun: error: cpu-node-88: task 0: Exited with exit code 2
+srun: job 33549090 queued and waiting for resources
+srun: job 33549090 has been allocated resources
+slurmstepd: error: execve(): bowtie2: No such file or directory
+srun: error: cpu-node-35: task 0: Exited with exit code 2
+srun: job 33549116 queued and waiting for resources
+srun: job 33549116 has been allocated resources
+slurmstepd: error: execve(): bowtie2: No such file or directory
+srun: error: cpu-node-14: task 0: Exited with exit code 2
+srun: job 33549135 queued and waiting for resources
+srun: job 33549135 has been allocated resources
+slurmstepd: error: execve(): bowtie2: No such file or directory
+srun: error: cpu-node-40: task 0: Exited with exit code 2
+srun: job 33549137 queued and waiting for resources
+srun: job 33549137 has been allocated resources
+(ERR): "../data/bowtie2_db/PhiX_bowtie2_db/" does not exist or is not a Bowtie 2 index
+Exiting now ...
+srun: error: cpu-node-40: task 0: Exited with exit code 2
